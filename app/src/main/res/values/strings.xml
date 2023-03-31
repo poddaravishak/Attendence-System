@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BAUET Attendance</string>
+    <string name="university">Bangladesh Army University of Engineering &amp; Technology</string>
+    <string name="splash_text">BAUET Attendance</string>
+</resources>
